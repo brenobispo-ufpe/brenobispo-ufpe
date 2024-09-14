@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💞️ I’m looking to collaborate on Interdisplinary projects related to the topics above.
 
-- ⚡ Fun fact **I was once a bodybuilder**
+- ⚡ Fun fact: **I was once a bodybuilder** 😂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
