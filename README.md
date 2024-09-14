@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Breno Bispo</h1>
 <h3 align="center">An electronics engineer with a passion for transforming theoretical concepts into practical applications, particularly in the field of signal processing.</h3>
 
-- 🌱 As a PhD candidate at the Department of Electronics and Systems, *Federal University of Pernambuco* (UFPE), and former guest researcher at the Dutch Institute for Emergent Phenomena (DIEP) at the Instute of Advanced Studies, and Korteweg-de Vries Institute for Mathematics (KdVI), *University of Amsterdam (UvA)*, I’m currently exploring **applications of signal processing techniques to higher-order networks in neuroscience**
+- 🌱 As a PhD candidate at the Department of Electronics and Systems, *Federal University of Pernambuco (UFPE)*, and former guest researcher at the Dutch Institute for Emergent Phenomena (DIEP) at the Instute of Advanced Studies, and Korteweg-de Vries Institute for Mathematics (KdVI), *University of Amsterdam (UvA)*, I’m currently exploring **applications of signal processing techniques to higher-order networks in neuroscience**
 
 - 📝 I regularly write articles on signal processing over higher-order networks and its applications on neuroscience
 
