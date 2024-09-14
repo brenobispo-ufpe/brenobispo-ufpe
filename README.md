@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **breno.bispo@ufpe.br**
 
-- 📄 Know about my experiences signal processing over higher-order structures, network neuroscience, hardware architecture design, embedded systems, IoT projects, and microcontrolled biomedical sensing.
+- 📄 Know about my experiences: signal processing over higher-order structures, network neuroscience, hardware architecture design, embedded systems, IoT projects, and microcontrolled biomedical sensing.
+
+- 💞️ I’m looking to collaborate on Interdisplinary projects related to the topics above.
 
 - ⚡ Fun fact **I was once a bodybuilder**
 
